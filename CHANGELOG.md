@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/thelastcookies/test/compare/v1.3.0...v1.4.0) (2024-03-24)
+
+
+### Features
+
+* 新增 antdv。 ([ad0dc6f](https://github.com/thelastcookies/test/commit/ad0dc6fe22ae87162383a32abe6b0a52648bf60c))
+
 ## [1.3.0](https://github.com/thelastcookies/test/compare/v1.2.0...v1.3.0) (2024-03-24)
 
 
