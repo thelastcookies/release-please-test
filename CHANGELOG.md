@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/thelastcookies/test/compare/v1.2.0...v1.3.0) (2024-03-24)
+
+
+### Features
+
+* 新增 mitt。 ([ad8c42c](https://github.com/thelastcookies/test/commit/ad8c42c354e13bdf330e551f554ee9a997ab1170))
+
+
+### Bug Fixes
+
+* 修改 axios。 ([ad8c42c](https://github.com/thelastcookies/test/commit/ad8c42c354e13bdf330e551f554ee9a997ab1170))
+
 ## [1.2.0](https://github.com/thelastcookies/test/compare/v1.1.1...v1.2.0) (2024-03-24)
 
 
