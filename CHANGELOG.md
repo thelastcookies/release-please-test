@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/thelastcookies/test/compare/v1.1.1...v1.2.0) (2024-03-24)
+
+
+### Features
+
+* fdsafdas f asf sa ([ad20564](https://github.com/thelastcookies/test/commit/ad20564e572aa51ae8ef61c0e8401a4cd4012e8e))
+
+
+### Bug Fixes
+
+* 修改 axios。 ([ad20564](https://github.com/thelastcookies/test/commit/ad20564e572aa51ae8ef61c0e8401a4cd4012e8e))
+
 ## [1.1.1](https://github.com/thelastcookies/test/compare/v1.1.0...v1.1.1) (2024-03-24)
 
 
