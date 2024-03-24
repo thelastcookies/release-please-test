@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/thelastcookies/test/compare/v1.6.0...v1.6.1) (2024-03-24)
+
+
+### Bug Fixes
+
+* issues. ([fd19eb7](https://github.com/thelastcookies/test/commit/fd19eb7863953863bd03b415836f9a52db9d0d5b))
+
 ## [1.6.0](https://github.com/thelastcookies/test/compare/v1.5.0...v1.6.0) (2024-03-24)
 
 
