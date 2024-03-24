@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.7.0](https://github.com/thelastcookies/test/compare/v1.6.1...v1.7.0) (2024-03-24)
+
+
+### Features
+
+* unplugin-vue-components ([5b4bdbc](https://github.com/thelastcookies/test/commit/5b4bdbce8b83904c187462b2935efabdf8b453a1))
+
+
+### Bug Fixes
+
+* unocss ([54884ea](https://github.com/thelastcookies/test/commit/54884eaae8c9b1c77d7da3f727fb704d16239181))
+* unocss yml ([bc2dca7](https://github.com/thelastcookies/test/commit/bc2dca795d83affda72fc62ed5c4190de986e778))
+* unplugin-auto-import ([dabbce7](https://github.com/thelastcookies/test/commit/dabbce78bf73e237f4c51e445e5913388d8fadbf))
+* unplugin-auto-import yml ([9ae1a6d](https://github.com/thelastcookies/test/commit/9ae1a6de539fe1b0e6298c7f3bffad3dd2c4b5c9))
+* unplugin-vue-components yml ([0ca5c03](https://github.com/thelastcookies/test/commit/0ca5c0308bbfd133b984161e9627f17dfc9afd61))
+
 ## [1.6.1](https://github.com/thelastcookies/test/compare/v1.6.0...v1.6.1) (2024-03-24)
 
 
