@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/thelastcookies/test/compare/v1.5.0...v1.6.0) (2024-03-24)
+
+
+### Features
+
+* 新增 less。 ([11fd26c](https://github.com/thelastcookies/test/commit/11fd26ce7f04ec49aa58f12c72402d8b4d21b00d))
+
+
+### Bug Fixes
+
+* issues. ([11fd26c](https://github.com/thelastcookies/test/commit/11fd26ce7f04ec49aa58f12c72402d8b4d21b00d))
+
 ## [1.5.0](https://github.com/thelastcookies/test/compare/v1.4.0...v1.5.0) (2024-03-24)
 
 
