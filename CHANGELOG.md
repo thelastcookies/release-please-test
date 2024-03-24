@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/thelastcookies/test/compare/v1.1.0...v1.1.1) (2024-03-24)
+
+
+### Bug Fixes
+
+* 修改 axios。 ([034a6a9](https://github.com/thelastcookies/test/commit/034a6a953f911c86e6b02cafe93793d72ec670ca))
+
 ## [1.1.0](https://github.com/thelastcookies/test/compare/v1.0.0...v1.1.0) (2024-03-24)
 
 
