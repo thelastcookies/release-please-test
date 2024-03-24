@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/thelastcookies/test/compare/v1.4.0...v1.5.0) (2024-03-24)
+
+
+### Features
+
+* 新增 dayjs。 ([ecaa3e0](https://github.com/thelastcookies/test/commit/ecaa3e07bcd0f47935e4bcaefa6d240ee82b1c8e))
+
 ## [1.4.0](https://github.com/thelastcookies/test/compare/v1.3.0...v1.4.0) (2024-03-24)
 
 
