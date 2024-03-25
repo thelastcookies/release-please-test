@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.9.0](https://github.com/thelastcookies/test/compare/v1.8.0...v1.9.0) (2024-03-25)
+
+
+### Features
+
+* 修改 ElementPlus ([611271f](https://github.com/thelastcookies/test/commit/611271f04421f9642742b4b5aa6daaa2d307e7bb))
+* 修改 ElementPlus ([eb12505](https://github.com/thelastcookies/test/commit/eb125052ec6acc862208652829e1e238d5b544a9))
+
 ## [1.8.0](https://github.com/thelastcookies/test/compare/v1.7.0...v1.8.0) (2024-03-25)
 
 
