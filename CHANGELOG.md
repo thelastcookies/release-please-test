@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.8.0](https://github.com/thelastcookies/test/compare/v1.7.0...v1.8.0) (2024-03-25)
+
+
+### Features
+
+* ElementPlus ([d6cc6a8](https://github.com/thelastcookies/test/commit/d6cc6a8db2eb91e65295b797938f32967bc9d3fc))
+* ElementPlus ([d38cb09](https://github.com/thelastcookies/test/commit/d38cb092ad51e10f66fe70310fb6da04bb569eed))
+* Typescript ([85fba47](https://github.com/thelastcookies/test/commit/85fba473525eccee1cd8ba54c430a0b5d4a59b7d))
+* 修改 ElementPlus ([52a0494](https://github.com/thelastcookies/test/commit/52a04948ab252f24112a77d093e6c74fc2b4b5ae))
+* 修改 ElementPlus ([2c687dd](https://github.com/thelastcookies/test/commit/2c687dda35cddde009483c0cec2f55299916a473))
+
 ## [1.7.0](https://github.com/thelastcookies/test/compare/v1.6.1...v1.7.0) (2024-03-24)
 
 
